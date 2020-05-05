@@ -1,0 +1,25 @@
+{
+  "name": "vuepress-plugin-zengarden-home",
+  "version": "1.0.0",
+  "description": "Creates a homepage for your VuePress site.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjventurini/vuepress-plugin-zengarden-home.git"
+  },
+  "keywords": [
+    "vuepress",
+    "vuepress",
+    "plugin",
+    "zengarden"
+  ],
+  "author": "Thomas Venturini <thomas@venturini.codes>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tjventurini/vuepress-plugin-zengarden-home/issues"
+  },
+  "homepage": "https://github.com/tjventurini/vuepress-plugin-zengarden-home#readme"
+}
